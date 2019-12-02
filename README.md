@@ -7,4 +7,4 @@ Game developed with ThreeJs and WebGl.
 
 * **Eloi Leitao** - [eloileitao](https://github.com/eloileitao)
 
-* **Luís Santos** - 
+* **Luís Santos** - [luissantos5] (https://github.com/luissantos5)
